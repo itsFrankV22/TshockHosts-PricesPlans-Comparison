@@ -4,13 +4,14 @@ Price comparison of plans for hosting your tshock server! My opinion and the bes
 
 # Hosting Services Comparison
 
-| Service           | Prices (USD/month) | Free Plans | Notes                                                                 |
-|-------------------|--------------------|------------|-----------------------------------------------------------------------|
-| **MCST**          |  $ 1.99 / Monthly  | YES        | Excellent customer support, but slow loading speeds in Europe.        |
-| **AxentHost**     |                    | ...        | Fast support and multiple locations.                                  |
-| **NITRADO**       |                    | ...        | Hosting for over 70 games, easy setup.                                |
-| **Lemehost**      |                    | ...        | Free plans for many games, affordable upgrades.                       |
-| **Apex Hosting**  |                    | ...        | Couldn't find specific information about free plans.                  |
+| Service           | Prices (USD/month) | Free Plans           | Opinion                                                               |
+|-------------------|--------------------|----------------------|-----------------------------------------------------------------------|
+| **MCST**          |  $ 1.99 / Monthly  | YES 24/7             | The cheapest and with the best services from all my research          |
+| **Gaming4Free**   |  $ 0.00 / 90min    | Renew every 90min    |                                                                       |
+| **AxentHost**     |                    | ...                  |                                                                       |
+| **NITRADO**       |                    | ...                  |                                                                       |
+| **Lemehost**      |                    | ...                  |                                                                       |
+| **Apex Hosting**  |                    | ...                  |                                                                       |
 
 
 ## MCST Products
