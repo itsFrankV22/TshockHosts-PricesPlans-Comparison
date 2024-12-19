@@ -11,7 +11,7 @@ Price comparison of plans for hosting your tshock server! My opinion and the bes
 | **AxentHost**     |  `$0.00` / 60min                         | Get coins to buy 1h  | Each hour costs coins that you have to get by watching ads, I do not recommend it             |
 | **NITRADO**       |  `$1.69` `$6.59` `$16.19`   30days       | No                   | Quite expensive in my opinion                                                                 |
 | **Skynode**       |  `$7.49` `$9.99` `$12.49`   30days       | No                   | The first month is cheap but the rest of the months are extremely expensive                   |
-| **Lemehost**      |                                          | ...                  |                                                                                               |
+| **Lemehost**      |  `$0.00` `$6.00` ~ `$48.00`   30days     | Yes not 24/7         | They have a lot of products but for tshock they don't seem cheap                              |
 | **Apex Hosting**  |                                          | ...                  |                                                                                               |
 
 
@@ -29,3 +29,9 @@ Discount code 10% `HJnMQoU6`
 ## Skynode products They are average but they charge you for the domain separately
 
 ![image](https://github.com/user-attachments/assets/72cc28a6-f5ca-46df-9346-8a7e78cde949)
+
+
+## Lemehost Products
+
+![image](https://github.com/user-attachments/assets/c63484bd-6c47-4e41-a056-076f617c3be0)
+
